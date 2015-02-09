@@ -1,0 +1,120 @@
+.new-pass-page {
+	background: #0d0d0d;
+	background-size: cover;
+	display: table;
+	width: 100%;
+	height: 100%;
+	vertical-align: middle;
+}
+.new-pass-wrapper {
+	display: table-cell;
+	height: 100%;
+	padding: 50px 0;
+	vertical-align: middle;
+	width: 100%;
+	/*background: rgba(0,0,0,0.35); для сообщения об успешной регистрации*/
+}
+h1 {
+	font-size: 40px;
+	line-height: 1;
+	font-weight: 300;
+	color: #fff;
+	margin: 0 0 65px;
+	padding: 0;
+}
+/*reg-form*/
+.new-pass-form {
+	width: 340px;
+	padding: 25px;
+	border-radius: 8px;
+	margin: 0 auto;
+	background: #cfcfcf;
+}
+.form-group{
+	margin-bottom: 6px;
+}
+.form-group:first-of-type {
+	margin-bottom: 25px;
+}
+.form-group:last-of-type {
+	padding-top: 10px;
+	margin-bottom: 0;
+}
+.form-control {
+	background: #fff;
+	height: 45px;
+	border-radius: 4px;
+}
+.form-control:focus {
+	text-align: left;
+}
+.form-control + .input-icon {
+	color: #bdc3c7;
+	background: transparent;
+	font-size: 16px;
+	line-height: 42px;
+}
+.input-icon.glyphicon.glyphicon-repeat {
+	font-size: 15px;
+}
+.form-control:focus + .input-icon {
+	color: #f39c12;
+	-webkit-transition: border .4s linear, color .4s linear, background-color .4s linear;
+	transition: border .4s linear, color .4s linear, background-color .4s linear;
+}
+.form-control:focus:-moz-placeholder {
+  color: transparent;
+  opacity: 1;
+}
+.form-control:focus::-moz-placeholder{
+  color: transparent;
+  opacity: 1;
+}
+.form-control:focus:-ms-input-placeholder{
+  color: transparent;
+  opacity: 1;
+}
+.form-control:focus::-webkit-input-placeholder {
+  color: transparent;
+  opacity: 1;
+}
+.form-control.placeholder:focus {
+  color: transparent;
+  opacity: 1;
+}
+.btn.adloud_btn {
+font-size: 14px;
+padding: 8px 35px;
+margin: 0;
+border-radius: 4px;
+line-height: 29px;
+}
+.btn.adloud_btn .fa{
+	font-size: 24px;
+	line-height: 27px;
+}
+/*end reg-form*/
+
+/*bottom menu*/
+.bottom-menu {
+	padding: 60px 0 40px;
+	background: transparent;
+	color: #fff;
+	margin: 0;
+	height: auto;
+	position: relative;
+}
+.bottom-links {
+	text-align: center
+}
+.bottom-links li {
+	float: none;
+	display: inline-block;
+}
+.bottom-links a {
+	color: #c2c9cf;
+}
+.bottom-links a:hover {
+	color: #f39c12;
+}
+/*end bottom menu*/

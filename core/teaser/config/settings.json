@@ -1,0 +1,45 @@
+{
+    "endpoints": {
+        "postgres": {
+            "pgsql1": {
+                "actual_data":{
+                    "address": "db1",
+                    "port": 5432,
+                    "user": "web",
+                    "password": "4igir-Web",
+                    "current": true,
+                    "database": "actual_data"
+                },
+                "persistent_data": {
+                    "address": "cp1",
+                    "port": 5432,
+                    "user": "web",
+                    "password": "4igir-Web",
+                    "current": true,
+                    "database": "persistent_data"
+                }
+
+            }
+        },
+        "redis": {
+            "redis1": {
+                "address": "db1",
+                "port": 6379,
+                "current": true
+            }
+        },
+        "image": {
+            "image1": {
+                "address": "http://adloud.net/images",
+                "port": 80,
+                "width": 100,
+                "height": 100
+            }
+        }
+    },
+
+    "baseUrl": "http://pre1.adloud.net/",
+    "homeUrl": "http://adloud.net/",
+    "incomePercent": 0.2,
+    "dateFormat": "Y-m-d"
+}

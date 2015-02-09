@@ -1,0 +1,15 @@
+.adloud-block-240x400 {
+    width: 240px!important;
+    /*height: 400px!important;*/
+}
+.adloud-block-240x400 .adloud_logo {
+    bottom: 0px!important;
+    left: 0px!important;
+}
+.adloud-block-240x400 .refresh {
+    top: 0px!important;
+    right: 0px!important;
+}
+.teaser-240x400 {
+    height: 133px!important;
+}

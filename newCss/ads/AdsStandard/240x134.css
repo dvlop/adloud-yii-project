@@ -1,0 +1,88 @@
+a.adld-tsr-240x134 {
+	width: 240px !important;
+	height: 134px !important;
+	vertical-align: top!important;
+}
+div.adld-tsr-title {
+	display: table !important;
+	width: 100% !important;
+	height: auto !important;
+}
+div.adld-tsr-title > span {
+	display: table-cell !important;
+	height: 28px !important;
+	vertical-align: middle !important;
+}
+div.adld-tsr-title > span:last-child {
+	width: 216px !important;
+	padding: 0 4px 0 0 !important;
+	font-size: 12px !important;
+	text-align: left !important;
+}
+div.adld-tsr-title span.adld-tsr-icon {
+	width: 16px !important;
+	padding: 0 2px 0 0!important;
+}
+span.adld-tsr-icon img {
+	vertical-align: middle!important;
+	margin-top: -3px!important;
+	width: 14px!important;
+}
+span.adld-tsr-link-url {
+	display: inline-block !important;
+	width: auto !important;
+	height: auto !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	vertical-align: top !important;
+}
+div.adld-tsr-content {
+	display: table !important;
+	width: 232px !important;
+	height: 98px !important;
+	overflow: hidden;
+	padding: 0 !important;
+	margin: 0 !important;
+	vertical-align: top !important;
+}
+div.adld-adld-tsr-img {
+	display: table-cell !important;
+	float: left!important;
+	width: 98px !important;
+	height: 98px !important;
+	overflow: hidden;
+	padding: 0 !important;
+	vertical-align: top !important;
+	margin: 0 auto !important;
+	line-height: 0!important;
+}
+div.adld-adld-tsr-img img {
+	vertical-align: bottom !important;
+}
+div.adld-adld-tsr-description {
+	display: table-cell !important;
+	width: 134px !important;
+	height: 98px !important;
+	padding: 0 0 0 4px !important;
+	margin: 0 auto!important;
+	vertical-align: top !important;
+	text-align: left !important;
+}
+div.adld-adld-tsr-description > span {
+	display: inline-block !important;
+	width: 100% !important;
+	height: 68px !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	vertical-align: top!Important;
+}
+div.adld-tsr-btn {
+	display: inline-block !important;
+	width: 130px !important;
+	padding: 0 !important;
+	margin: 0 auto !important;
+}
+div.adld-tsr-btn span.btn {
+	display: inline-block !important;
+	width: 130px!important;
+}

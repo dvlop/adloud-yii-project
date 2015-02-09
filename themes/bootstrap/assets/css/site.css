@@ -1,0 +1,119 @@
+body    {
+    overflow-y:scroll;
+}
+
+.sidebar-nav-v1 li {
+    border: 0;
+}
+
+.sidebar-nav-v1 i.icon-round {
+    margin-bottom: 0;
+}
+
+.headline {
+    margin: 10px 0;
+}
+
+.icon-no-border {
+    border: none !important;
+}
+
+#contentContainer.stretched {
+    padding: 0 20px;
+}
+
+.table > thead > tr > td.active, .table > tbody > tr > td.active, .table > tfoot > tr > td.active, .table > thead > tr > th.active, .table > tbody > tr > th.active, .table > tfoot > tr > th.active, .table > thead > tr.active > td, .table > tbody > tr.active > td, .table > tfoot > tr.active > td, .table > thead > tr.active > th, .table > tbody > tr.active > th, .table > tfoot > tr.active > th {
+    background-color: #5CB85C;
+    color: #FFFFFF;
+}
+
+#teaser-preview div.teaser-element:hover {
+    outline: 2px solid #009900;
+    cursor: pointer;
+}
+
+div.teaser-element, div.teaser-element-preview {
+    display: table;
+}
+
+div.teaser-element.teaser-image, div.teaser-element-preview.teaser-image {
+    float: left;
+    padding: 5px;
+    margin: 0 5px;
+}
+
+div.teaser-element-preview.teaser-image {
+    padding: 0 5px 5px 0;
+    margin: 0 5px 5px 0;
+}
+
+div.teaser-element.teaser-header a, div.teaser-element-preview.teaser-header a {
+    color: #c65e12;
+    font-size: 14px;
+}
+
+div.teaser-element.teaser-url, div.teaser-element-preview.teaser-url {
+    color: #686868;
+    font-size: 11px;
+    padding-bottom: 5px;
+}
+
+.popover {
+    /*width: 100%;*/
+    width: 300px;
+    min-height: 87px;
+    max-width: none;
+}
+
+.btnExpand {
+    cursor: pointer;
+}
+
+.color-picker {
+    cursor: pointer !important;
+}
+
+.twm-block {
+    float: left;
+    border: 2px solid;
+    border-color: #eeeeee;
+    background-color: #ffffff;
+    padding: 5px;
+    margin-right: 10px;
+}
+.twm-block img{
+    padding-right: 5px;
+}
+
+.elExpand {
+    cursor: pointer;
+}
+
+/* <------- DatePicker ------> */
+
+.daterangepicker .right, .datepicker-days .right{
+    float: right;
+}
+.daterangepicker .left, .datepicker-days .left{
+    float: left;
+}
+.daterangepicker .calendar.left, .datepicker-days .left{
+    margin-right: 40px;
+}
+.daterangepicker .range_inputs .daterangepicker_start_input{
+    float: left;
+    margin-right: 40px;
+}
+.daterangepicker .range_inputs .applyBtn{
+    margin-left: 100px;
+}
+.daterangepicker td.selected, .daterangepicker td:hover, .datepicker-days .day.selected, .datepicker-days .day:hover{
+    background-color: #8ec7ff;
+}
+.daterangepicker td:hover, .datepicker-days .day:hover{
+    cursor: pointer;
+}
+.payout-datepicker span.add-on{
+    cursor: pointer;
+}
+/* <------- End of DatePicker ------> */

@@ -1,0 +1,24 @@
+{
+    "layers": [
+        {
+            "name": "Cache",
+            "type": "Layer",
+            "forEachModel": false
+        },
+        {
+            "name": "Validator",
+            "type": "Layer",
+            "forEachModel": true
+        },
+        {
+            "name": "Logic",
+            "type": "logic",
+            "forEachModel": true
+        },
+        {
+            "name": "DataSource",
+            "type": "Layer",
+            "forEachModel": true
+        }
+    ]
+}

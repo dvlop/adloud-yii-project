@@ -1,0 +1,43 @@
+.adloud-block-240x400.adloud-block-240x400-min {
+    height: auto!important;
+}
+.adloud-teaser-block .adloud-teaser-240x400 {
+    height: 118px!important;
+}
+.adloud-teaser-240x400 .teaser_title {
+    font-weight: 700!important;
+    width: 116px!important;
+    padding: 3px 0 0 0!important;
+    line-height: 1.2!important;
+}
+.adloud-teaser-240x400 .teaser_description {
+    font-size: 12px!important;
+    height: auto!important;
+    width: 116px!important;
+    padding: 6px 0px 0 0!important;
+}
+.adloud-teaser-240x400 .teaser_img {
+    width: 110px!important;
+    margin: 4px 7px 0 3px!important;
+}
+.adloud-teaser-240x400:nth-of-type(2) .teaser_img {
+    margin: 4px 7px 0 3px!important;
+}
+.adloud-teaser-240x400 .teaser_btn {
+    width: 114px!important;
+    /*bottom: -2px!important;*/
+}
+.adloud-teaser-240x400:nth-of-type(2) .teaser_btn {
+    /*bottom: -2px!important;*/
+}
+.adloud-teaser-240x400 .teaser_btn a {
+    text-decoration: underline!important;;
+    -webkit-animation: none!important;;
+    -moz-animation: none!important;;
+    -ms-animation: none!important;;
+    -o-animation: none!important;;
+    animation: none!important;;
+}
+.adloud-teaser-240x400 .teaser_btn a:hover {
+    text-decoration: none!important;;
+}

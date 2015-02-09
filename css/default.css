@@ -1,0 +1,255 @@
+.adloud-teaser-block * {
+    -webkit-box-sizing: border-box!important;
+    -moz-box-sizing: border-box!important;
+    box-sizing: border-box!important;
+}
+.adloud-teaser-block *:before, .adloud-teaser-block *:after {
+    -webkit-box-sizing: border-box!important;
+    -moz-box-sizing: border-box!important;
+    box-sizing: border-box!important;
+}
+.adloud-teaser-block a {
+    text-decoration: none!important;
+    -webkit-transition: .4s!important;
+    transition: .4s!important;
+    text-decoration:none!important;
+}
+.adloud-teaser-block img {
+    vertical-align: middle!important;
+    border: 0!important;
+}
+.adloud-teaser-block p {
+    margin: 0 0 10px!important;
+}
+.adloud-teaser-block .text-left {
+    text-align: left!important;
+}
+.adloud-teaser-block .text-center {
+    text-align: center!important;
+}
+.adloud-teaser-block .text-right {
+    text-align: right!important;
+}
+.adloud-teaser-block .pull-left {
+    float: left !important;
+}
+.adloud-teaser-block .pull-right {
+    float: right !important;
+}
+@font-face {
+    font-family: 'Glyphicons Halflings'!important;
+    src: url('../../fonts/glyphicons-halflings-regular.eot')!important;
+    src: url('../../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg')!important;
+}
+.adloud-teaser-block .glyphicon {
+    position: relative!important;
+    top: 1px!important;
+    display: inline-block!important;
+    font-family: 'Glyphicons Halflings'!important;
+    font-style: normal!important;
+    font-weight: normal!important;
+    line-height: 1!important;
+    -webkit-font-smoothing: antialiased!important;
+    -moz-osx-font-smoothing: grayscale!important;
+}
+.adloud-teaser-block .glyphicon-repeat:before {
+    content: "\e030"!important;
+}
+.adloud-teaser-block .btn {
+    border: none!important;
+    font-weight: normal!important;
+    border-radius: 4px!important;
+    -webkit-font-smoothing: subpixel-antialiased!important;
+    -webkit-transition: border .4s linear, color .4s linear, background-color .4s linear!important;
+    transition: border .4s linear, color .4s linear, background-color .4s linear!important;
+    margin-bottom: 0!important;
+    vertical-align: middle!important;
+    cursor: pointer!important;
+    -webkit-user-select: none!important;
+    -moz-user-select: none!important;
+    -ms-user-select: none!important;
+    -o-user-select: none!important;
+    user-select: none!important;
+    text-decoration:none!important;
+}
+.adloud-teaser-block .btn-block {
+    white-space: normal!important;
+    display: block!important;
+    width: 100%!important;
+}
+.adloud-teaser-block .btn-embossed {
+    -webkit-box-shadow: inset 0 -2px 0 rgba(0, 0, 0, 0.15)!important;
+    box-shadow: inset 0 -2px 0 rgba(0, 0, 0, 0.15)!important;
+}
+.adloud-teaser-block .label {
+    font-weight: normal!important;
+    padding: .15em .5em .2em!important;
+    line-height: 1!important;
+    white-space: nowrap!important;
+    vertical-align: baseline!important;
+    border-radius: .25em!important;
+}
+
+/*teaser block*/
+.adloud-teaser-block {
+    border-radius: 4px!important;
+    position: relative!important;
+    color: #34495E!important;
+    -webkit-font-smoothing: subpixel-antialiased!important;
+    line-height: normal!important;
+    -webkit-backface-visibility: hidden!important;
+    -moz-backface-visibility: hidden!important;
+    -ms-backface-visibility: hidden!important;
+}
+
+.adloud-teaser-block a.refresh {
+    position: absolute!important;
+    font-size: 10px!important;
+    z-index: 99999!important;
+    background: #F1F1F1!important;
+    border-radius: 4px!important;
+    height: 20px!important;
+    width: 20px!important;
+    color: #34495E!important;
+    padding: 4px 5px 6px!important;
+}
+.adloud-teaser-block a.refresh:hover {
+    color: #34495E!important;
+}
+.adloud-teaser-block .refresh span {
+    vertical-align: top!important;
+}/*end teaser block*/
+
+/*teaser-item*/
+.adloud-teaser-block .adloud-teaser-item {
+    position: relative!important;
+}
+.adloud-teaser-block .teaser_title {
+    font-size: 12px!important;
+    font-weight: 600!important;
+    margin-bottom: 0px!important;
+    line-height: 1.2!important;
+}
+.adloud-teaser-block .teaser_title a {
+    text-decoration:none!important;
+}
+.adloud-teaser-block .teaser_link {
+    line-height: 18px!important;
+    margin-top: -2px!important;
+    margin-bottom: 5px!important;
+}
+.adloud-teaser-block .teaser_link a, .adloud-teaser-block .teaser_link span {
+    font-size: 11px!important;
+    color: #34495e!important;
+    text-decoration:none!important;
+}
+.adloud-teaser-block .teaser_logo {
+    width: 14px!important;
+}
+.adloud-teaser-block .teaser_img img {
+    width: 100%!important;
+    border-radius: 4px!important;
+}
+.adloud-teaser-block .teaser_description {
+    font-size: 11px!important;
+    line-height: 1.2!important;
+    margin-bottom: 0!important;
+    color: #34495e !important;
+}
+.adloud-teaser-block .teaser_contact {
+    font-size: 11px!important;
+    line-height: 1!important;
+    margin-bottom: 5px!important;
+    vertical-align: top!important;
+}
+.adloud-teaser-block .teaser_contact span {
+    font-size: 14px!important;
+}
+.adloud-teaser-block .teaser_price span {
+    font-size: 12px!important;
+    display: inline-block!important;
+    width: 70px!important;
+    text-align: center!important;
+    color: #fff!important;
+}
+.adloud-teaser-block .teaser_price .new_price {
+    background: #00ae5d!important;
+}
+.adloud-teaser-block .teaser_price .old_price {
+    background: #999!important;
+    text-decoration: line-through!important;
+}
+.adloud-teaser-block .teaser_btn {
+    position: absolute!important;
+}
+
+.adloud-teaser-block .teaser_btn a, .adloud-teaser-block .teaser_btn span {
+    font-size: 12px!important;
+    padding: 0!important;
+    -webkit-animation: scale 4s!important;
+    -webkit-animation-delay: 2.8s!important;
+    -webkit-animation-iteration-count: infinite!important;
+    -moz-animation: scale 4s!important;
+    -moz-animation-delay: 2.8s!important;
+    -moz-animation-iteration-count: infinite!important;
+    -ms-animation: scale 4s!important;
+    -ms-animation-delay: 2.8s!important;
+    -ms-animation-iteration-count: infinite!important;
+    -o-animation: scale 4s!important;
+    -o-animation-delay: 2.8s!important;
+    -o-animation-iteration-count: infinite!important;
+    animation: scale 4s!important;
+    animation-delay: 2.8s!important;
+    animation-iteration-count: infinite!important;
+    text-decoration:none!important;
+    color: #fff!important;
+}
+@-webkit-keyframes scale {
+    15% {
+        -webkit-transform: scale(0.9);
+    }
+    30%,100% {
+        -webkit-transform: scale(1);
+    }
+}
+@-moz-keyframes scale {
+    15% {
+        -moz-transform: scale(0.9);
+    }
+    30%,100% {
+        -moz-transform: scale(1);
+    }
+}
+@-o-keyframes scale {
+    15% {
+        -o-transform: scale(0.9);
+    }
+    30%,100% {
+        -o-transform: scale(1);
+    }
+}
+@-ms-keyframes scale {
+    15% {
+        -ms-transform: scale(0.9);
+    }
+    30%,100% {
+        -ms-transform: scale(1);
+    }
+}
+@keyframes scale {
+    15% {
+        transform: scale(0.9);
+    }
+    30%,100% {
+        transform: scale(1);
+    }
+}
+.adloud-teaser-block .adloud_logo {
+    position: absolute!important;
+    width: 20px!important;
+    height: 20px!important;
+    z-index: 99999!important;
+    padding: 3px 1px 5px 2px!important;
+    background: url(../../images/adloud/blocks/adloud_logo.png) #F1F1F1 no-repeat center!important;
+    border-radius: 4px!important;
+}

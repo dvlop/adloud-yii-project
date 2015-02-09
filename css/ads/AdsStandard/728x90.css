@@ -1,0 +1,83 @@
+.adloud-teaser-728x90 {
+    width: 364px!important;
+    float: left!important;
+    height: 90px!important;
+}
+.adloud-teaser-728x90:first-of-type {
+    border-radius: 4px 0 0 4px!important;
+}
+.adloud-teaser-728x90:last-of-type {
+    border-radius: 0 4px 4px 0!important;
+}
+.adloud-teaser-728x90 .teaser_title {
+    height: 20px!important;
+    display: table!important;
+    line-height: 1.1!important;
+    width: 268px!important;
+    padding-right: 18px!important;
+}
+.adloud-teaser-728x90 .teaser_title span {
+    display: table-cell!important;
+    vertical-align: middle!important;
+}
+.adloud-teaser-728x90 .teaser_title span:first-child {
+    width: 14px!important;
+}
+.adloud-teaser-728x90 .teaser_title span:last-child {
+    width: 236px!important;
+    padding-left: 2px!important;
+}
+.adloud-teaser-728x90 .teaser_img {
+    padding: 3px 2px 3px 3px!important;
+    width: 85px!important;
+    margin-right: 3px!important;
+}
+.adloud-teaser-728x90:last-of-type .teaser_img {
+    margin-left: 1px!important;
+}
+.adloud-teaser-728x90 .teaser_description {
+    height: 30px!important;
+    display: table-cell!important;
+    width: 271px!important;
+    vertical-align: middle!important;
+}
+.adloud-teaser-728x90:last-of-type .teaser_description {
+    width: 270px!important;
+}
+.adloud-teaser-728x90 .teaser_price {
+    width: 70px!important;
+    margin-right: 4px!important;
+}
+.adloud-teaser-728x90:last-of-type .teaser_price {
+    margin-right: 3px!important;
+}
+.adloud-teaser-728x90 .teaser_contact {
+    margin-bottom: 4px!important;
+}
+.adloud-teaser-728x90 .teaser_link {
+    margin-bottom: 6px!important;
+    margin-top: -8px!important;
+}
+.adloud-teaser-728x90 .teaser_price .new_price {
+    margin-right: 5px!important;
+}
+.adloud-teaser-728x90 .teaser_contact {
+    position: absolute!important;
+    bottom: 0px!important;
+    left: 90px!important;
+}
+.adloud-teaser-728x90 .teaser_btn {
+    width: 268px!important;
+    right: 5px!important;
+    bottom: 3px!important;
+}
+.adloud-teaser-728x90:last-of-type .teaser_btn {
+    right: 4px!important;
+}
+.adloud-teaser-728x90 .teaser_btn a {
+    line-height: 30px!important;
+}
+.adloud-teaser-728x90 .teaser_btn.transparent_btn a{
+    line-height: 1!important;
+}
+/*end 640x300px */

@@ -1,0 +1,185 @@
+@font-face {
+    font-family: "Flat-UI-Icons";
+    src: url('../fonts/flat-ui-icons-regular.eot');
+    src: url('../fonts/flat-ui-icons-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/flat-ui-icons-regular.woff') format('woff'), url('../fonts/flat-ui-icons-regular.ttf') format('truetype'), url('../fonts/flat-ui-icons-regular.svg#flat-ui-icons-regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.auto-link{
+    cursor: pointer;
+}
+
+.add_site_recommendations > ul > li {
+    font-size: 12px;
+}
+
+.editable-attr{
+    cursor: pointer;
+}
+
+.editable-window{
+    display: none;
+}
+
+.price-window{
+    position: absolute;
+    z-index: 1000;
+    width: 230px;
+    height: 63px;
+    background-color: #f1f1f1;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.price-window p {
+    font-size: 12px;
+    font-weight: 600;
+    margin: 0px;
+}
+
+.button-line {
+    width: 100%;
+}
+
+.input-price {
+    float: left;
+    width: 120px;
+    display: block;
+}
+
+.input-price-window {
+    width: 100%;
+    background: #FFF;
+    border: 1px solid #bdc3c7;
+    color: #34495e;
+    font-size: 12px;
+    padding: 8px 12px;
+    height: 28px;
+    border-radius: 4px;
+    margin-bottom: 5px;
+}
+
+.save-price {
+    width: 39px;
+    float:left;
+    text-align: center;
+    display: block;
+    margin: 0 8px 0 6px;
+}
+
+.save-price button {
+    width: 100%;
+    background-color: #F39C12;
+    color: #fff;
+    font-size: 12px;
+    border-radius: 4px;
+    padding: 7px;
+    line-height: 1.3;
+}
+
+.cancel-price {
+    width: 39px;
+    float:left;
+    text-align: center;
+    display: block;
+}
+
+.cancel-price button {
+    width: 100%;
+    background-color: #bdc3c7;
+    color: #fff;
+    font-size: 12px;
+    border-radius: 4px;
+    padding: 7px;
+    line-height: 1.3;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
+
+.grid-view table.items th, .grid-view table.items td {
+    font-size: 0.9em;
+    border: 1px white solid;
+    padding: 0.3em;
+    max-width: 450px;
+    word-wrap: break-word;
+}
+
+.new-ticket a {
+    font-weight: bold;
+}
+
+.fui-mail {
+    color: #F39C12;
+    font-size: 16px;
+    margin-left: -35px;
+    margin-right: 18px;
+    vertical-align: bottom;
+    display: inline-block;
+    font-family: 'Flat-UI-Icons';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+
+.fui-mail:before {
+    content: "\e01e";
+}
+
+.adloud-blocks-js-code-bg, .select-teaser-type-bg {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 9999;
+    background: rgba(0,0,0,0.5);
+}
+.adloud-blocks-js-code, .select-teaser-type {
+    width: 720px;
+    position: fixed;
+    background: #F1F1F1;
+    border-radius: 4px;
+    top: 50%;
+    padding: 30px;
+    left: 50%;
+    margin: -190px 0 0 -360px;
+    z-index: 99999;
+}
+.adloud-blocks-js-code > .fui-cross, .select-teaser-type > .fui-cross {
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.adloud-blocks-js-code .h6, .select-teaser-type .h6 {
+    margin: 0 0 10px;
+}
+.adloud-blocks-js-code .note {
+    font-size: 12px;
+}
+.adloud-blocks-js-code textarea {
+    height: 180px;
+    background: #FFF;
+    font-size: 12px;
+    overflow: auto;
+}
+.adloud-blocks-js-code .btn,.select-teaser-type .btn {
+    font-size: 12px;
+    padding: 0 15px;
+    min-width: 240px;
+    text-transform: uppercase;
+    margin: 30px 0 0;
+    font-weight: 600;
+    line-height: 45px;
+}
+.adloud-blocks-js-code .btn.close-btn {
+    height: 45px;
+    margin-left: 15px;
+}

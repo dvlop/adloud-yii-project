@@ -1,0 +1,74 @@
+.adloud-block-240x400.adloud-block-240x400-new {
+    height: auto!important;
+}
+.adloud-teaser-240x400:first-of-type {
+    border-radius: 4px 4px 0 0!important;
+}
+.adloud-teaser-240x400 {
+    height: 133px!important;
+}
+.adloud-teaser-240x400 {
+    height: 133px;
+}
+.adloud-teaser-240x400:nth-of-type(2) {
+    height: 134px!important;
+    padding: 1px 0!important;
+}
+.adloud-teaser-240x400:last-of-type {
+    border-radius: 0 0 4px 4px!important;
+}
+.adloud-teaser-240x400 .teaser_title {
+    vertical-align: middle!important;
+    margin: 0!important;
+    height: 27px!important;
+    padding: 0 3px 0 3px!important;
+    line-height: 1!important;
+    display: table!important;
+    width: 236px!important;
+    font-weight: 700!important;
+}
+.adloud-teaser-240x400 .teaser_title span {
+    display: table-cell!important;
+    vertical-align: middle!important;
+}
+.adloud-teaser-240x400 .teaser_title span:first-child {
+    width: 14px!important;
+}
+.adloud-teaser-240x400 .teaser_title span:last-child {
+    padding-left: 0px!important;
+    width: 201px!important;
+}
+.adloud-teaser-240x400 .teaser_title img {
+    vertical-align: top!important;
+}
+.adloud-teaser-240x400 .teaser_img {
+    margin: 0 6px 0 3px!important;
+    width: 98px!important;
+}
+.adloud-teaser-240x400:nth-of-type(2) .teaser_img {
+    margin: 1px 6px 0 3px!important;
+}
+.adloud-teaser-240x400 .teaser_description {
+    height: 84px!important;
+    width: 129px!important;
+    font-size: 12px!important;
+    vertical-align: top!important;
+    display: table-cell!important;
+    padding: 3px 3px 0 0!important;
+}
+.adloud-teaser-240x400 .teaser_price {
+    line-height: 1!important;
+    margin-top: -4px!important;
+    margin-bottom: -2px!important;
+}
+.adloud-teaser-240x400 .teaser_btn {
+    width: 126px!important;
+    right: 3px!important;
+    bottom: 5px!important;
+}
+.adloud-teaser-240x400 .teaser_btn a {
+    line-height: 30px!important;
+}
+.adloud-teaser-240x400 .teaser_btn.transparent_btn a {
+    line-height: 1!important;
+}

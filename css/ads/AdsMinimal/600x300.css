@@ -1,0 +1,153 @@
+.adloud-teaser-600x300 {
+    width: 200px!important;
+    height: 300px!important;
+    float:left!important;
+}
+.adloud-teaser-600x300:first-of-type {
+    border-radius: 4px 0 0 4px!important;
+}
+.adloud-teaser-600x300:last-of-type {
+    border-radius: 0 4px 4px 0!important;
+}
+.adloud-teaser-600x300 .teaser_title {
+    padding: 3px 16px 0!important;
+    line-height: 1.1!important;
+    height: 30px!important;
+    display: table-cell!important;
+    vertical-align: middle!important;
+    width: 197px!important;
+}
+.adloud-teaser-600x300:nth-of-type(2) .teaser-title {
+    width: 198px!important;
+}
+.adloud-teaser-600x300 .teaser_link {
+    line-height: 1!important;
+    height: 14px!important;
+    margin: 2px 0 3px 0!important;
+}
+.adloud-teaser-600x300 .teaser_logo {
+    margin: 0 4px 0 0!important;
+}
+.adloud-teaser-600x300 .teaser_link a{
+    height: 14px!important;
+    line-height: 1!important;
+    display: inline-block!important;
+    vertical-align: top!important;
+}
+.adloud-teaser-600x300 .center-content {
+    height: 212px!important;
+    display: table-cell!important;
+    vertical-align: top!important;
+}
+.adloud-teaser-600x300:first-of-type .center-content, .adloud-teaser-600x300:last-of-type .center-content {
+    width: 197px!important;
+}
+.adloud-teaser-600x300:nth-of-type(2) .center-content {
+    width: 196px!important;
+}
+.adloud-teaser-600x300 .teaser_img {
+    width: 150px!important;
+    margin: 0 auto 5px!important;
+}
+.adloud-teaser-600x300 .teaser_description {
+    width: 150px!important;
+    margin: 0 auto!important;
+}
+.adloud-teaser-600x300 .teaser_price {
+    width: 150px!important;
+    margin: -2px auto 2px!important;
+}
+.adloud-teaser-600x300 .teaser_price span:first-child {
+    margin-right: 5px!important;
+}
+.adloud-teaser-600x300 .teaser_btn {
+    width: 140px!important;
+    bottom: 3px!important;
+    right: 50%!important;
+    margin-right: -70px!important;
+}
+.adloud-teaser-600x300 .teaser_btn a {
+    line-height: 30px!important;
+    -webkit-animation-duration: 12s!important;
+    -moz-animation-duration: 12s!important;
+    -ms-animation-duration: 12s!important;
+    -o-animation-duration: 12s!important;
+    animation-duration: 12s!important;
+}
+.adloud-teaser-600x300:first-of-type .teaser_btn a{
+    -webkit-animation-delay: 2.8s!important;
+    -moz-animation-delay: 2.8s!important;
+    -ms-animation-delay: 2.8s!important;
+    -o-animation-delay: 2.8s!important;
+    animation-delay: 2.8s!important;
+}
+.adloud-teaser-600x300:nth-of-type(2) .teaser_btn a{
+    -webkit-animation-delay: 6.8s!important;
+    -moz-animation-delay: 6.8s!important;
+    -ms-animation-delay: 6.8s!important;
+    -o-animation-delay: 6.8s!important;
+    animation-delay: 6.8s!important;
+}
+.adloud-teaser-600x300:last-of-type .teaser_btn a{
+    -webkit-animation-delay: 10.8s!important;
+    -moz-animation-delay: 10.8s!important;
+    -ms-animation-delay: 10.8s!important;
+    -o-animation-delay: 10.8s!important;
+    animation-delay: 10.8s!important;
+}
+@-webkit-keyframes scale {
+    5% {
+        -webkit-transform: scale(0.9)!important;
+        transform: scale(0.9)!important;
+    }
+    10%,100% {
+        -webkit-transform: scale(1)!important;
+        transform: scale(1)!important;
+    }
+}
+@-moz-keyframes scale {
+    5% {
+        -moz-transform: scale(0.9)!important;
+        transform: scale(0.9)!important;
+    }
+    10%,100% {
+        -moz-transform: scale(1)!important;
+        transform: scale(1)!important;
+    }
+}
+@-o-keyframes scale {
+    5% {
+        -o-transform: scale(0.9)!important;
+        transform: scale(0.9)!important;
+    }
+    10%,100% {
+        -o-transform: scale(1)!important;
+        transform: scale(1)!important;
+    }
+}
+@-ms-keyframes scale {
+    5% {
+        -ms-transform: scale(0.9)!important;
+        transform: scale(0.9)!important;
+    }
+    10%,100% {
+        -ms-transform: scale(1)!important;
+        transform: scale(1)!important;
+    }
+}
+@keyframes scale {
+    5% {
+        -moz-transform: scale(0.9)!important;
+        -webkit-transform: scale(0.9)!important;
+        -o-transform: scale(0.9)!important;
+        -ms-transform: scale(0.9)!important;
+        transform: scale(0.9)!important;
+    }
+    10%,100% {
+        -moz-transform: scale(1)!important;
+        -webkit-transform: scale(1)!important;
+        -o-transform: scale(1)!important;
+        -ms-transform: scale(1)!important;
+        transform: scale(1)!important;
+    }
+}

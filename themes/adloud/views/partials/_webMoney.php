@@ -1,0 +1,1 @@
+<META NAME="webmoney.attestation.label" CONTENT="webmoney attestation label#329F8D9B-2714-4B34-8DF7-7568D574A76E">

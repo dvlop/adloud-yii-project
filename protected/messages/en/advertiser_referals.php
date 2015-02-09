@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'Рекламодатель'                                                         => 'Advertiser',
+    'Вебмастер'                                                             => 'Webmaster',
+    'Администратор'                                                         => 'Administrator',
+    'Баланс: {ads}$'                                                        => 'Balance: {ads}$',
+    'Уведомления'                                                           => 'Notifications',
+    'Профиль'                                                               => 'Profile',
+    'Выход'                                                                 => 'Sign out',
+    'Мои кампании'                                                          => 'My campaigns',
+    'Статистика'                                                            => 'Statistics',
+    'Рефералы'                                                              => 'Referrals',
+    'Списки сайтов'                                                         => 'Lists of sites',
+    'Ретаргетинг'                                                           => 'Retargeting',
+    'Пополнить счет'                                                        => 'Top up the account',
+    'Главная'                                                               => 'Home',
+    'Реферальная ссылка'                                                    => 'Referral link',
+    'Скопировать в буфер'                                                   => 'Copy to clipboard',
+    'У вас нет реферальных начислений'                                      => 'You do not have any referral accruals',
+    'Вебмастеру'                                                            => 'For Webmaster',
+    'Рекламодателю'                                                         => 'For Advertiser',
+    'Блог'                                                                  => 'Blog',
+    'Контакты'                                                              => 'Contacts',
+    'Имя пользователя'                                                      => 'Name',
+    'Дата регистрации'                                                      => 'Date of registration',
+    'Сумма комиссионных'                                                    => 'Comission sum',
+];

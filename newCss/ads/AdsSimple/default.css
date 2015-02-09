@@ -1,0 +1,126 @@
+/*!
+ *  Font Awesome 4.1.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+/* FONT PATH
+ * -------------------------- */
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('fonts/fontawesome-webfont.eot?v=4.1.0');
+  src: url('fonts/fontawesome-webfont.eot?#iefix&v=4.1.0') format('embedded-opentype'), url('fonts/fontawesome-webfont.woff?v=4.1.0') format('woff'), url('fonts/fontawesome-webfont.ttf?v=4.1.0') format('truetype'), url('fonts/fontawesome-webfont.svg?v=4.1.0#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.fa {
+  display: inline-block !important;
+  font-family: FontAwesome !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  line-height: 1 !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.fa-angle-right:before {
+	content: "\f105";
+	display: inline-block;
+	vertical-align: middle;
+}
+
+/*universal selector*/
+div.adld-simple-tsr-table * {
+	position: static !important;
+	width: auto !important;
+	height: auto !important;
+	border-radius: 0 !important;
+	vertical-align: baseline !important;
+	line-height: 1 !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	-webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/*/universal selector*/
+
+/*teaser table*/
+div.adld-simple-tsr-table {
+	border: none !important;
+	position: static !important;
+	display: table !important;
+	padding: 0 !important;
+	border-radius: 4px!important;
+	line-height: 1 !important;
+	margin: 0 !important;
+	box-sizing: content-box !important;
+	vertical-align: baseline !important;
+}
+/*/teaser-table*/
+
+/*teaser-row*/
+div.adld-simple-tsr-row {
+	display: table-row !important;
+	width: auto !important;
+	height: auto !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	box-sizing: border-box !important;
+}
+div.adld-simple-tsr-row * {
+	box-sizing: border-box !important;
+}
+/*/teaser-row*/
+
+/*item teaser*/
+.adld-simple-tsr-table .adld-simple-tsr-cell {
+	display: table-cell !important;
+	padding: 0 !important;
+	text-decoration: none !important;
+	color: initial !important;
+}
+/*/item teaser*/
+
+/*item teaser elements*/
+.adld-simple-tsr-cell .adld-simple-adld-tsr-img {
+	width: 100% !important;
+	height: auto !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	vertical-align: top !important;
+}
+
+.adld-simple-tsr-cell .adld-simple-tsr-title {
+	display: block !important;
+	width: 100% !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	font-weight: 700 !important;
+	line-height: 1.2 !important;
+	text-decoration: underline !important;
+}
+.adld-simple-tsr-cell .adld-simple-tsr-title:hover {
+	text-decoration: none !important;
+}
+
+.adld-simple-tsr-cell .adld-simple-tsr-dscrptn {
+	display: block !important;
+	width: 100% !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	font-weight: 400 !important;
+	line-height: 1.2 !important;
+	text-decoration: none !important;
+}
+
+.adld-simple-tsr-cell .adld-simple-tsr-link {
+	display: block !important;
+	width: 100% !important;
+	font-weight: 700;
+	line-height: 1 !important;
+}
+/*/item teaser elements*/
+
+#adld-ifrm-hddn{
+    display: none !important;
+}
+.adld-tsr-table{
+    cursor: pointer;
+}

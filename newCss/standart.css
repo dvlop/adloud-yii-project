@@ -1,0 +1,27 @@
+div.adld-tsr-table {
+    border-color: #f1f1f1;
+    border-width: 1px;
+    background: #fff;
+}
+div.adld-tsr-title > span {
+    color: #2980B9;
+}
+span.adld-tsr-link-url {
+    color: #34495E;
+}
+div.adld-adld-tsr-description > span {
+    color: #34495E;
+}
+div.adld-tsr-btn > span.btn {
+    color: #fff;
+    background: #f39c12;
+}
+div.adld-tsr-btn > span.btn:hover {
+    background: #f6b517;
+}
+#adld-ifrm-hddn{
+    display: none !important;
+}
+.adld-tsr-table{
+    cursor: pointer;
+}

@@ -1,0 +1,54 @@
+.adloud-teaser-468x60 {
+    width: 468px!important;
+    height: 60px!important;
+    border-radius: 4px!important;
+    line-height: 1.1!important;
+}
+.adloud-teaser-468x60 .teaser_img {
+    width: 56px!important;
+    margin-right: 3px!important;
+}
+.adloud-teaser-468x60 .teaser_price {
+    width: 70px!important;
+    margin-top: -2px!important;
+    margin-right: 5px!important;
+}
+.adloud-teaser-468x60 .teaser_price span {
+    display: block!important;
+    margin: 4px 0 0!important;
+}
+.adloud-teaser-468x60 .teaser_contact {
+    margin-top: 22px!important;
+    margin-right: 22px!important;
+}
+.adloud-teaser-468x60 .teaser_title {
+    vertical-align: bottom!important;
+    height: 14px!important;
+    display: table!important;
+    width: 368px!important;
+    line-height: 1.1!important;
+}
+.adloud-teaser-468x60 .teaser_title img {
+    margin-right: 3px!important;
+}
+.adloud-teaser-468x60 .teaser_description {
+    display: table-cell!important;
+    width: 280px!important;
+    height: 41px!important;
+    padding: 5px 5px 0 18px!important;
+    vertical-align: top!important;
+}
+.adloud-teaser-468x60 .teaser_btn {
+    right: 5px!important;
+    bottom: 5px!important;
+    width: 120px!important;
+}
+.adloud-teaser-468x60 .transparent_btn {
+    right: 22px!important;
+}
+.adloud-teaser-468x60 .teaser_btn a {
+    line-height: 30px!important;
+}
+.adloud-teaser-468x60 .transparent_btn a {
+    line-height: 1!important;
+}

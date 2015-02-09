@@ -1,0 +1,189 @@
+.auto-link{
+    cursor: pointer;
+}
+
+.add_site_recommendations > ul > li {
+    font-size: 12px;
+}
+
+.editable-attr{
+    cursor: pointer;
+}
+
+.editable-window{
+    display: none;
+}
+
+.price-window{
+    position: absolute;
+    z-index: 1000;
+    width: 230px;
+    height: 63px;
+    background-color: #f1f1f1;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.price-window p {
+    font-size: 12px;
+    font-weight: 600;
+    margin: 0px;
+}
+
+.button-line {
+    width: 100%;
+}
+
+.input-price {
+    float: left;
+    width: 120px;
+    display: block;
+}
+
+.input-price-window {
+    width: 100%;
+    background: #FFF;
+    border: 1px solid #bdc3c7;
+    color: #34495e;
+    font-size: 12px;
+    padding: 8px 12px;
+    height: 28px;
+    border-radius: 4px;
+    margin-bottom: 5px;
+}
+
+.save-price {
+    width: 39px;
+    float:left;
+    text-align: center;
+    display: block;
+    margin: 0 8px 0 6px;
+}
+
+.save-price button {
+    width: 100%;
+    background-color: #F39C12;
+    color: #fff;
+    font-size: 12px;
+    border-radius: 4px;
+    padding: 7px;
+    line-height: 1.3;
+}
+
+.cancel-price {
+    width: 39px;
+    float:left;
+    text-align: center;
+    display: block;
+}
+
+.cancel-price button {
+    width: 100%;
+    background-color: #bdc3c7;
+    color: #fff;
+    font-size: 12px;
+    border-radius: 4px;
+    padding: 7px;
+    line-height: 1.3;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
+
+.right-float{
+    float: right;
+}
+
+/*banned page*/
+.banned {
+    padding: 0 15px 5px;
+}
+.banned h1 {
+    margin: 15px 0 45px;
+}
+.ban-info {
+    font-size: 16px;
+    line-height: 1.2;
+    margin-bottom: 60px;
+    color: #98a4af;
+}
+.ban-img {
+    margin-bottom: 65px;
+}
+.if-you-do-not-agree {
+    font-size: 12px;
+    color: #98A4AF;
+    line-height: 1.2;
+    margin-bottom: 20px;
+}
+.send-appeal .btn {
+    font-size: 16px;
+    color: #fff;
+    background: #e45a57;
+    -ms-transition: all .4s;
+    -o-transition: all .4s;
+    -webkit-transition: all .4s;
+    transition: all .4s;
+}
+.send-appeal .btn:hover {
+    background: #e5332f;
+}
+/*/banned-page*/
+
+/* creative blocks */
+
+.creative-blocks-tools-panel ul.dropdown-menu{
+    box-shadow: 0 -3px 3px rgba(0, 0, 0, 0.176) !important;
+    overflow: hidden !important;
+}
+
+/* End creative blocks *//*/banned-page*/
+
+.button-selector.btn{
+    background-color: #f1f1f1;
+    width: 100% !important;
+    margin-bottom: 20px;
+    font-size: 12px;
+}
+.button-selector.btn:hover{
+    color: #34495e;
+}
+.campaign-selector .select{
+    display: block !important;
+    width: 100% !important;
+}
+.campaign-selector ul.dropdown-menu{
+    width: 100%;
+    overflow: hidden !important;
+    margin-top: 45px !important;
+    font-size: 12px;
+}
+.campaign-selector .caret{
+    border-bottom-color: #34495e;
+    border-top-color: #34495e;
+}
+.campaign-selector .btn-group.open .dropdown-toggle, .campaign-selector .btn:focus{
+color: #34495e !important;
+}
+.campaign-selector .open > .dropdown-arrow{
+    margin-top: 38px;
+}/*/banned-page*/
+
+/* creative blocks */
+
+.creative-blocks-tools-panel ul.dropdown-menu{
+    box-shadow: 0 -3px 3px rgba(0, 0, 0, 0.176) !important;
+    overflow: hidden !important;
+}
+
+/* End creative blocks *//*/banned-page*/
+
+/* creative blocks */
+
+.creative-blocks-tools-panel ul.dropdown-menu{
+    box-shadow: 0 -3px 3px rgba(0, 0, 0, 0.176) !important;
+    overflow: hidden !important;
+}
+
+/* End creative blocks */

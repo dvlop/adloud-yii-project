@@ -1,0 +1,7 @@
+{
+    "folderCount": 50,
+    "deep": 3,
+    "maxSize": 409600,
+    "allowedFileTypes": ["image/gif", "image/jpeg", "image/jpg", "image/pjpeg", "image/x-png", "image/png"],
+    "allowedExtensions": ["gif", "jpeg", "jpg", "png"]
+}

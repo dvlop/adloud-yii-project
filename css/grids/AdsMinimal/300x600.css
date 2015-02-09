@@ -1,0 +1,12 @@
+.adloud-block-300x600 {
+	width: 300px!important;
+	height: 600px!important;
+}
+.adloud-block-300x600 .adloud_logo {
+	bottom: 0px!important;
+	left: 0px!important;
+}
+.adloud-block-300x600 .refresh {
+	top: 0px!important;
+	right: 0px!important;
+}

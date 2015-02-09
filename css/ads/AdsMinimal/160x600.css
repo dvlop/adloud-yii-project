@@ -1,0 +1,67 @@
+.adloud-teaser-160x600 {
+    width: 160px!important;
+    height: 300px!important;
+}
+.adloud-teaser-160x600:first-of-type {
+    border-radius: 4px 4px 0 0!important;
+}
+.adloud-teaser-160x600:last-of-type {
+    border-radius: 0 0 4px 4px!important;
+}
+.adloud-teaser-160x600 .teaser_title {
+    padding: 0 16px 0!important;
+    line-height: 1.1!important;
+    height: 30px!important;
+    display: table-cell!important;
+    vertical-align: middle!important;
+    width: 156px!important;
+    font-size: 11px!important;
+}
+.adloud-teaser-160x600 .teaser_link {
+    line-height: 1!important;
+    height: 14px!important;
+    margin: 2px 0 2px 0!important;
+}
+.adloud-teaser-160x600 .teaser_logo {
+    margin: 0 4px 0 0!important;
+    vertical-align: top!important;
+}
+.adloud-teaser-160x600 .teaser_link a{
+    height: 14px!important;
+    line-height: 14px!important;
+    display: inline-block!important;
+    vertical-align: top!important;
+}
+.adloud-teaser-160x600 .center-content {
+    height: 212px!important;
+    display: table-cell!important;
+    width: 156px!important;
+    vertical-align: middle!important;
+}
+.adloud-teaser-160x600 .teaser_img {
+    width: 150px!important;
+    margin: 0 auto 5px!important;
+}
+.adloud-teaser-160x600 .teaser_description {
+    padding: 0 3px!important;
+}
+.adloud-teaser-160x600 .teaser_price {
+    width: 150px!important;
+    margin: 0 auto!important;
+}
+.adloud-teaser-160x600 .teaser_price span:first-child {
+    margin: 0 5px 0 0!important;
+}
+.adloud-teaser-160x600 .teaser_btn {
+    width: 150px!important;
+    right: 3px!important;
+}
+.adloud-teaser-160x600:first-of-type .teaser_btn {
+    bottom: 4px!important;
+}
+.adloud-teaser-160x600:last-of-type .teaser_btn {
+    bottom: 3px!important;
+}
+.adloud-teaser-160x600 .teaser_btn a {
+    line-height: 30px!important;
+}

@@ -1,0 +1,16 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: t0m
+ * Date: 31.05.14
+ * Time: 14:05
+ */
+
+namespace ads;
+
+
+class AdsMinimal extends AdsStandard {
+    public function type(){
+        return \models\Block::FORMAT_ADS_MINIMAL;
+    }
+} 

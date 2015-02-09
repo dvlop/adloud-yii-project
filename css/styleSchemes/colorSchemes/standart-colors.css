@@ -1,0 +1,14 @@
+.adloud-teaser-item .teaser_title, .adloud-teaser-item .teaser_title a {
+	color: #2980b9!important;
+}
+.adloud-teaser-item .btn {
+	background: #f39c12!important;
+	color: #fff!important;
+}
+.adloud-teaser-item .btn:hover {
+	background: #F6B517!important;
+	color: #fff!important;
+}
+.adloud-teaser-item .transparent_btn a, .adloud-teaser-item .transparent_btn span {
+	color: #f39c12!important;
+}
